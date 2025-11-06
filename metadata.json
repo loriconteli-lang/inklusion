@@ -1,0 +1,5 @@
+{
+  "name": "Inclusivity Self-Assessment Tool",
+  "description": "An application for teachers to self-assess their inclusivity practices. Users can select specific indicators, answer related questions, and receive a visual evaluation of their inclusivity level for each chosen area.",
+  "requestFramePermissions": []
+}
